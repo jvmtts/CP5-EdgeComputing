@@ -25,6 +25,11 @@ https://wokwi.com/projects/445465032852274177
   <img src="imgs/funcionamentoVM.png">
 </div>
 
+## Wokwi conectado á VM
+<div>
+  <img src="imgs/wokwi.png">
+</div>
+
 # Participantes
 - João Victor Rodrigues de Mattos RM:564249
 - Paulo Henrique Barboza de Oliveira Ramos RM:562179

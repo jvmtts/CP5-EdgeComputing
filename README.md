@@ -3,6 +3,9 @@
 # Link do projeto
 https://wokwi.com/projects/445465032852274177
 
+## Broker mosquitto em pleno funcionamento
+<img src="imagens/mosquitto.png>
+
 # Participantes
 - João Victor Rodrigues de Mattos RM:564249
 - Paulo Henrique Barboza de Oliveira Ramos RM:562179

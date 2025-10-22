@@ -174,7 +174,7 @@ void handleLuminosity() {
  
     const int potLum = 34;
     int sensorValue = analogRead(potLum);
-    int luminosity = map(sensorValue, 0, 4095, 0, 100);
+    int luminosity = map(sensorValue, 0, 4095, 100, 0);
     String mensagem = String(luminosity);
     Serial.print("Valor da luminosidade: ");
     Serial.println(mensagem.c_str());

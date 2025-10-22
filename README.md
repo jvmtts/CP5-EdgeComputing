@@ -1,10 +1,24 @@
 # CP5-EdgeComputing
 
+## Importante destacar o uso de um IP próprio, feito na Azure com a ajuda do Fiware
 # Link do projeto
 https://wokwi.com/projects/445465032852274177
 
 ## Broker mosquitto em pleno funcionamento
-<img src="imagens/mosquitto.png>
+<div>
+  <img src="imagens/mosquitto.png">
+</div>
+
+## Health Check em dia, mostrando assim o uso do Fiware
+<div>
+  <img src="imagens/healthCheck.png">
+</div>
+
+## Toggle funcionando
+### Como não temos como mostrar, apenas passe o parâmetro "on" ou "off" no body do método Patch para ver a luz alternando seu estado
+<div>
+  <img src="imagens/toggle.png">
+</div>
 
 # Participantes
 - João Victor Rodrigues de Mattos RM:564249

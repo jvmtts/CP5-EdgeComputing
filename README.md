@@ -20,6 +20,11 @@ https://wokwi.com/projects/445465032852274177
   <img src="imgs/toggle.png">
 </div>
 
+## Vm na Azure em funcionamento
+<div>
+  <img src="imgs/funcionamentoVM.png">
+</div>
+
 # Participantes
 - João Victor Rodrigues de Mattos RM:564249
 - Paulo Henrique Barboza de Oliveira Ramos RM:562179

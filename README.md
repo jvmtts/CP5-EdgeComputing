@@ -6,18 +6,18 @@ https://wokwi.com/projects/445465032852274177
 
 ## Broker mosquitto em pleno funcionamento
 <div>
-  <img src="imagens/mosquitto.png">
+  <img src="imgs/mosquitto.png">
 </div>
 
 ## Health Check em dia, mostrando assim o uso do Fiware
 <div>
-  <img src="imagens/healthCheck.png">
+  <img src="imgs/healthCheck.png">
 </div>
 
 ## Toggle funcionando
 ### Como não temos como mostrar, apenas passe o parâmetro "on" ou "off" no body do método Patch para ver a luz alternando seu estado
 <div>
-  <img src="imagens/toggle.png">
+  <img src="imgs/toggle.png">
 </div>
 
 # Participantes
